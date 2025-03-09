@@ -1,0 +1,45 @@
+{
+  "product": {
+    "price": 100000000,
+    "modelId": 87954190536,
+    "promotionId": 108461927120897,
+    "startTime": 1665334800000,
+    "itemId": 19418067288,
+    "shopId": 252404855,
+    "image": "04e168f8e775f4a85c39de23319facb1",
+    "name": "Sunscreen"
+  },
+  "ongkir": {
+    "from": "KOTA%20JAKARTA%20UTARA&district=KOJA&state=DKI%20JAKARTA",
+    "logisticID": 8003,
+    "shippingPrice": 0,
+    "logisticName": "Reguler (Cashless)",
+    "addr": "ade - Tdi Store, Jalan Haji Na In, Cipete Utara, Kebayoran Baru"
+  },
+  "general": {
+    "addressId": 104051573,
+    "paymentId": 8001400,
+    "delayOrder": 30,
+    "ua": "Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Mobile Safari/537.36",
+    "cookie": "SPC_R_T_ID=rkcN4vSja85Q5teic+DCvdYuJJmm3CM0Nz3QAh4ZKpr6+2Dv7zBKmruRhmgMcaQl/N07c8HvaZOHpCWJkrDmQPgRTMB+C1MXIgMR9fLBr44=; SPC_IA=-1; SPC_EC=U2d4VzRReWN5Q3l5Nzk0a5IIU4Ncvf1fL3MERBURa6wLX8ehX1plmp4NTpo98IKFHG/ldma1BeFRVvY0+zFR3cOms+OnPqwAnZt0ZU9wSODC3h6PRVqeh7Qwr7cCPi7CI2SjM4e8anBKxBDOckPfsOTS9v4iC52prdQer2sN/Wg=; SPC_F=3vp5Ij7wviZhr6R3mIykMn69zShu7JJF; REC_T_ID=9bda80d4-a14a-11ec-95e3-5e75c9f3f515; SPC_T_ID=\"rkcN4vSja85Q5teic+DCvdYuJJmm3CM0Nz3QAh4ZKpr6+2Dv7zBKmruRhmgMcaQl/N07c8HvaZOHpCWJkrDmQPgRTMB+C1MXIgMR9fLBr44=\"; SPC_R_T_IV=KYIXkZfILAKyTXn3CPv+LA==; SPC_U=713963412; SPC_T_IV=\"KYIXkZfILAKyTXn3CPv+LA==\"; SPC_T_ID=rkcN4vSja85Q5teic+DCvdYuJJmm3CM0Nz3QAh4ZKpr6+2Dv7zBKmruRhmgMcaQl/N07c8HvaZOHpCWJkrDmQPgRTMB+C1MXIgMR9fLBr44=; SPC_T_IV=KYIXkZfILAKyTXn3CPv+LA==; G_ENABLED_IDPS=google; SPC_CLIENTID=M3ZwNUlqN3d2aVpowufmxgxdnwcyuehl; __stripe_mid=d9d31338-56e0-448b-8aff-641d0fb3adeba161a7; __LOCALE__null=ID; csrftoken=3JAHNVg4UC5NuX0sCcYtKc4aR8TcsP6b; SPC_SI=mall.yamQJL0CQYTV7mpVfcv9zu5dpjxbax3H; _QPWSDCXHZQA=1a27ab7e-9782-4b6d-ac96-7a4f5c45f534; shopee_webUnique_ccd=zLdwmPePXhS6d0Uf0lWxdQ%3D%3D%7CDS8KwELc4WXmiB9zYQFqFW%2FBadWf3Az3B3Bet29VsqE2JRkVoQf8YadJRp0jAsEGr6tcQg7BuTgABJK%2FW0tvCDRH6lPGfpZ6RyGA%7Cvj4smTf9vNNU7E2l%7C06%7C3; ds=eefffaa025174b7a93a3e2702718b649; SPC_ST=.bWtWYnJMWTVoMXdDQVZaMYdDZf2nJnOuPE6ao/XH9tZPfQTjxjSLsohyPTLbRffFTQYr9/HY6bk5L/EL6H7Tr+KC9ET53s/9Hw+pmjJ6U+E7yR6UAK8G5CKXS97SE23LK3bRUOAqy6S8nP0GEtu4LmtIkGBwyo0MPFoKsn0EE/XeCeDcM4KHDBz0f6UmrqJJLUI6C+SOrJmS6hw4EHpyAQ==",
+    "csrftoken": "ffrirMD6CuTantuFw903hcipAnHne9tw",
+    "if-none-match": "55b03-204d42cb130619dc2bbaebd6dd60230a",
+    "ping": 130,
+    "akun": "6285951625597",
+    "totalPlace": 1,
+    "referer": "https://shopee.co.id/product/291503866/15024359378"
+  },
+  "notif": {
+    "status": "GAGAL",
+    "error_code": "error_fraud",
+    "error_msg": "(M08): Aplikasi Shopee versi terbaru sudah tersedia. Silakan update aplikasi untuk melanjutkan checkout.",
+    "token": "1611709436:AAFR89zPJWM86uHg25HVxDT6j2_codklzbk",
+    "chat_id": "125336850"
+  },
+  "payment": {
+    "id": 8005200,
+    "paymentFee": 0,
+    "optionInfo": "89052007",
+    "name": "Va Seabank"
+  }
+}

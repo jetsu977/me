@@ -1,0 +1,43 @@
+{
+  "product": {
+    "price": 3250000000,
+    "modelId": 5993391279,
+    "promotionId": 2012174625,
+    "startTime": 1619196890000,
+    "itemId": 2344064835,
+    "shopId": 18015102,
+    "image": "88244af28f9e9d9d6c5b6a052a76b0b9",
+    "name": "WAJAN ENAMEL ANTI GORES  34-36 CM (GSF)"
+  },
+  "ongkir": {
+    "from": "KOTA%20TANGERANG%20SELATAN&district=PAMULANG&state=BANTEN",
+    "logisticID": 8003,
+    "shippingPrice": 900000000,
+    "logisticName": "Reguler (Cashless)"
+  },
+  "general": {
+    "addressId": 65088132,
+    "paymentId": 8001400,
+    "delayOrder": 10,
+    "referer": "https://shopee.co.id/WAJAN-ENAMEL-ANTI-GORES-34-36-CM-(GSF)-i.18015102.2344064835",
+    "ua": "Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Mobile Safari/537.36",
+    "cookie": "",
+    "csrftoken": "",
+    "if-none-match": "55b03-204d42cb130619dc2bbaebd6dd60230a",
+    "ping": 34,
+    "akun": "jawak"
+  },
+  "notif": {
+    "status": "GAGAL",
+    "error_code": "error_opc_channel_not_available",
+    "error_msg": "Maaf, saldo ShopeePay-mu tidak mencukupi. Mohon gunakan metode pembayaran lainnya.",
+    "token": "",
+    "chat_id": ""
+  },
+  "payment": {
+    "id": 8005200,
+    "paymentFee": 100000000,
+    "optionInfo": "89052001",
+    "name": "Va Bca"
+  }
+}

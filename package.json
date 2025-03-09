@@ -1,0 +1,41 @@
+{
+  "name": "bot-shopee",
+  "version": "1.0.0",
+  "description": "Bot shopee",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "co1k": "node index.js co1k",
+    "coget": "node index.js coget",
+    "masuk": "node src/login.js",
+    "profile": "node src/profile.js",
+    "setting": "node src/config.js",
+    "jajal": "node test.js",
+    "detail": "node src/detail.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Riki Handoyo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "axios-cookiejar-support": "^1.0.1",
+    "chalk": "^4.1.1",
+    "cron": "^1.8.2",
+    "crypto-js": "^4.0.0",
+    "date-fns": "^2.22.1",
+    "delay": "^5.0.0",
+    "faker": "^5.5.3",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "lowdb": "^1.0.0",
+    "ping": "^0.4.1",
+    "prompts": "^2.4.1",
+    "randomstring": "^1.2.1",
+    "tough-cookie": "^4.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.25.2"
+  }
+}
